@@ -13,10 +13,9 @@
 ---
 
 ## 🚀 Experience & Training
-* **보쉬전장 (Bosch Transmission)** | Testing & Prototyping 팀 인턴 (6개월)
-    * 차량용 부품 DV/PV 환경 시험 프로세스 수행 및 규격 평가
-    * ECF(Engine Cooling Fan) PWM 제어 로직 검증 및 하드웨어 연동 테스트
-* **Intel AI SW 가치확산 선도인력 양성 과정** | 900시간 수료
+* **보쉬전장 (Bosch Electrical Drives Co., Ltd.)** | EM/EVR-KR 시험시작팀 인턴 (6개월)
+    * ECF DV/PV 및 릴리즈 테스트 프로세스 수행 및 평가
+* **Intel Edge AI SW 아카데미 9기** | 900시간 수료
     * 지능형 시스템 및 고성능 임베디드 소프트웨어 개발 역량 내재화
 
 ---
@@ -29,6 +28,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded C-00599C?style=flat-square&text=Embedded%20C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Language-Verilog-blue"/>
 </p>
 
 ### 📡 Protocols & Hardware Interface
