@@ -54,23 +54,23 @@
 
 ## 📂 Highlighted Projects
 
-### [📟 모터 제어 시뮬레이션 및 ECU 연동 레포지토리](https://github.com/HaesungAhn0205/motor-control-simulation-can-hils.git)
+### [📟 CAN 통신 기반 ECF 제어와 HILS 시뮬레이션](https://github.com/HaesungAhn0205/motor-control-simulation-can-hils.git)
 * **설명**: 차량용 모터 제어(예: PWM 제어 알고리즘) 및 ECU 거동을 모사한 임베디드 소프트웨어 프로젝트
 * **핵심 역량**: PC -STM32 - BLDC MOTOR 간 CAN 통신 연결, HILS 시뮬레이션 모사 
 * **Tech Stack**: C, STM32, CAN, PWM Control
 
-### 🏥 ROS 2 자율주행 기반 스마트 병동 관리 시스템
+### [🏥 ROS 2 자율주행 기반 스마트 병동 관리 시스템](https://github.com/HaesungAhn0205/hospital-robot-ROS2.git)
 * **설명**: 다중 로봇 자율주행 기술과 AI 비전을 융합한 비대면 의료 보조 시스템
 * **멀티 로봇 및 시스템 최적화**: **Domain Bridge**를 활용한 복수 로봇 제어. Nav2 파라미터 튜닝을 통해 좁은 경로 탐지 오류를 해결하고 영상 데이터 최적화로 딜레이 개선
 * **실시간 제어**: YOLO11n-pose 및 D435 뎁스 카메라 기반 실시간 감시, 이벤트 중요도(낙상 감지 P1, 환자 요청 P2 등)에 따른 **우선순위 기반 Task Manager 스케줄링 알고리즘 구현**
 * **Tech Stack**: ROS 2 Humble, C++, Nav2, TurtleBot3, YOLO11n-pose
 
-### [🏭 Smart Factory MES (제조실행시스템) 및 데이터 통합](https://github.com/HaesungAhn0205/Smart_Factory_MES.git) 
+### [🏭 OPC-UA 기반 Smart Factory MES](https://github.com/HaesungAhn0205/Smart_Factory_MES.git) 
 * **설명**: OPC UA, Modbus TCP 등 이기종 프로토콜 간의 실시간 데이터 동기화를 구현한 시스템
 * **핵심 역량**: DBML 기반의 체계적인 공정 테이블 구조 설계 및 산업용 통신 환경에서의 데이터 무결성 보장
 * **Tech Stack**: C++, QT6, MariaDB
 
-### [⠎ 솔레노이드 액추에이터 기반 실시간 점자 제어 시스템 (Graduation Project)](https://github.com/HaesungAhn0205/Kiosk_PyQt5.git)
+### [🖥️ 솔레노이드 액추에이터 기반 실시간 점자 제어 시스템 (Graduation Project)](https://github.com/HaesungAhn0205/Kiosk_PyQt5.git)
 * **설명**: 시각장애인이 사용 가능한 키오스크 점자 보조기
 * **핵심 역량**: 대용량 액추에이터 구동 시의 전력 분배 및 실시간 태스크 스케줄링 디버깅, 시스템 신뢰성 평가
 * **Tech Stack**: Python, PyQT, Raspberry Pi, Actuator Control
