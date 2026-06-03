@@ -88,5 +88,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HaesungAhn0205&show_icons=true&theme=dark" alt="Haesung's github stats" />
 </p>
-
-📬 **Contact** : [내 이메일 주소] | [링크드인 주소]
