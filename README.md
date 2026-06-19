@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Embedded C-00599C?style=flat-square&text=Embedded%20C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Language-Verilog-blue"/>
+   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white/>
 </p>
 
 ### 📡 Protocols & Hardware Interface
@@ -48,7 +49,7 @@
   <img src="https://img.shields.io/badge/SPI / I2C-🔥?style=flat-square&text=SPI/I2C"/>
   <img src="https://img.shields.io/badge/PWM Control-00599C?style=flat-square&text=PWM"/>
   <img src="https://img.shields.io/badge/STM32 / MCU-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white/">
 </p>
 
 ### 🗄️ Databases & Tools
