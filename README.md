@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/SPI / I2C-🔥?style=flat-square&text=SPI/I2C"/>
   <img src="https://img.shields.io/badge/PWM Control-00599C?style=flat-square&text=PWM"/>
   <img src="https://img.shields.io/badge/STM32 / MCU-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white">
 </p>
 
 ### 🗄️ Databases & Tools
