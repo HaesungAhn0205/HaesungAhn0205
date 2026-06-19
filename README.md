@@ -59,7 +59,7 @@
 
 ---
 
-## 📂 Highlighted Projects
+## 📂 Highlighted Projects / Excercise
 
 ### [🏥 ROS 2 자율주행 기반 스마트 병동 관리 시스템](https://github.com/HaesungAhn0205/hospital-robot-ROS2.git)
 * **설명**: 다중 로봇 자율주행 기술과 AI 비전을 융합한 비대면 의료 보조 시스템
@@ -86,6 +86,11 @@
 * **설명**: 차량용 모터 PWM 제어 및 ECU 거동을 모사한 임베디드 소프트웨어 프로젝트
 * **핵심 역량**: PC -STM32 - BLDC MOTOR 간 CAN 통신 연결, HILS 시뮬레이션 모사 
 * **Tech Stack**: C, STM32, CAN, PWM Control
+
+### [🌐 펌웨어 프로그래밍 연습문제 풀이 모음](https://www.notion.so/2e8f74a5f0d2808884ebd1666769f1cb?source=copy_link)
+* **설명**: 임베디드 현업에서 사용되는 비트 조작, 메모리 관리 등 C 프로그래밍
+* **핵심 역량**: C Programming, 컴퓨터 구조, 자료구조/알고리즘
+* **Tech Stack**: C
 ---
 
 ## 📈 GitHub Stats
