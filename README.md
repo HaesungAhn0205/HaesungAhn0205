@@ -72,7 +72,7 @@
 * **핵심 역량**: 대용량 액추에이터 구동 시의 전력 분배 및 실시간 태스크 스케줄링 디버깅, 시스템 신뢰성 평가
 * **Tech Stack**: Python, PyQT, Raspberry Pi, Actuator Control
 
-### [🧠 ARU 기억 보조 솔루션](https://github.com/HaesungAhn0205/AI_Memory_Assist.git) 
+### [🧠 ARU 기억 보조 솔루션 (LLM/Vision AI/Physical AI](https://github.com/HaesungAhn0205/AI_Memory_Assist.git) 
 * **설명**: LLM 기반 문맥 인지 기술과 Vector DB(또는 RAG 기술) 를 결합한 AI 일상 기억 및 루틴 파악 시스템
 * **핵심 역량**: 모방학습을 통한 피지컬 AI 로봇 제어
 * **Tech Stack**: ROS 2 Jazzy, Physical AI, RAG, Docker, Python, C++
